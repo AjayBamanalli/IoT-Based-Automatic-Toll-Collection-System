@@ -46,6 +46,5 @@ A key feature of this system is an IoT-based recharge portal. An ESP8266 module 
 
 ## Circuit Diagram / Photos
 
-**(Add a clear photo of your physical setup or a circuit diagram here)**
 
 ![Photo of the project setup](hardware.jpg)
